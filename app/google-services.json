@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897972433984",
+    "project_id": "full-maintenance-system",
+    "storage_bucket": "full-maintenance-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897972433984:android:49b6bd137abb2d94d3dba5",
+        "android_client_info": {
+          "package_name": "om.omantowerco.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897972433984-9go8nodgge807roh3o0v2o25q781qu6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmJEPKwQDYQ8akhwnRHY1h1ji9dyfvuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897972433984-9go8nodgge807roh3o0v2o25q781qu6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
